@@ -1,22 +1,27 @@
 ## Roman here
 
 ```
-Born: Moscow
+Born
+> Moscow
 
-Bred: Moscow
-    , Singapore
+Bred
+> Moscow
+, Singapore
 
-Speaks: English
-      , Russian
+Speaks
+> English
+, Russian
 
-Writes: Erlang
-      , Elixir
+Writes
+> Erlang
+, Elixir
 
-Interests: linguistics
-         , urban planning
-         , travelling
-         , politics
-         , music
+Interests
+> linguistics
+, urban planning
+, travelling
+, politics
+, music
 ```
 
 <!--
