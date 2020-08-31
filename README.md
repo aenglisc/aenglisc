@@ -1,4 +1,23 @@
-### Hi there 👋
+## Hi, I'm Roman
+
+```
+Born: Moscow
+
+Bred: Moscow
+    , Singapore
+
+Speaks: English
+      , Russian
+
+Writes: Erlang
+      , Elixir
+
+Interests: linguistics
+         , urban planning
+         , travelling
+         , politics
+         , music
+```
 
 <!--
 **aenglisc/aenglisc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
