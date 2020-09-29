@@ -12,7 +12,7 @@ Speaks
 > English
 , Russian
 
-Writes
+Weapons of choice
 > Erlang
 , Elixir
 
