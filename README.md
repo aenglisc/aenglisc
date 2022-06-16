@@ -11,6 +11,7 @@ Bred
 Speaks
 > English
 , Russian
+, Swedish (men inte mycket)
 
 Weapons of choice
 > Erlang
